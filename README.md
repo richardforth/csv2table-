@@ -5,7 +5,7 @@ Has a number of advantages and disadvantages over the original csv2table that wa
 
 ## Advantages:
  - No external dependencies required
- = 100% C++ code
+ - 100% C++ code
  
  ## Disadvantages
   - Currently doesnt work with stdin, only accepts a single filename argument
