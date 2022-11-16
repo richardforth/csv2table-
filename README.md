@@ -7,8 +7,15 @@ Has a number of advantages and disadvantages over the original csv2table that wa
  - No external dependencies required
  - 100% C++ code
  
- ## Disadvantages
+## Disadvantages
   - Currently doesnt work with stdin, only accepts a single filename argument
+
+# Installation
+
+```bash
+$ c++ csv2table++.cpp -o csv2table++
+```
+Should work cross-platform (Windows, Linux, MacOS) 
 
 ## Example output
 ```bash
