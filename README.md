@@ -1,7 +1,7 @@
 # csv2table++
 csv2table, but written in C++
 
-Has a number of advantages and disadvantages over the original csv2table that was written in C:
+Has a number of advantages and disadvantages over [the original csv2table that was written in C](https://github.com/richardforth/csv2table):
 
 ## Advantages:
  - No external dependencies required
